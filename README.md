@@ -12,4 +12,5 @@ do-what-it-says: Follow whatever command you set in 'random.txt'
 All of the above commands will log the information to log.txt so we can study our user data and get into their heads.
 
 See below for demo:
-!(/images.liri-demo.gif)
+
+![liri-demo](/images.liri-demo.gif)
