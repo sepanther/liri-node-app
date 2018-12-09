@@ -152,3 +152,39 @@ Language: English, Icelandic, Filipino, Portuguese, French, Tagalog, German, Ita
 Plot: With a plan to exact revenge on a mythical shark that killed his partner, Oceanographer Steve Zissou rallies a crew that includes his estranged wife, a journalist, and a man who may or may not be his son.
 Actors: Bill Murray, Owen Wilson, Cate Blanchett, Anjelica Huston
 ---------------------------------
+Venue: Rockwood Music Hall Stage 3
+Location: New York, United States
+Date: 01/19/2019
+---------------------------------
+Venue: Cohoes Music Hall
+Location: Cohoes, United States
+Date: 01/24/2019
+---------------------------------
+Artist: Kanye West
+Song Name: POWER
+Preview Link: null
+Album: My Beautiful Dark Twisted Fantasy
+---------------------------------
+Title: The Lord of the Rings: The Fellowship of the Ring
+Year: 2001
+IMDB Rating: 8.8/10
+Rotten Tomatoes Rating: 91%
+Country: New Zealand, USA
+Language: English, Sindarin
+Plot: A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
+Actors: Alan Howard, Noel Appleby, Sean Astin, Sala Baker
+---------------------------------
+Title: The Life Aquatic with Steve Zissou
+Year: 2004
+IMDB Rating: 7.3/10
+Rotten Tomatoes Rating: 73%
+Country: USA
+Language: English, Icelandic, Filipino, Portuguese, French, Tagalog, German, Italian
+Plot: With a plan to exact revenge on a mythical shark that killed his partner, Oceanographer Steve Zissou rallies a crew that includes his estranged wife, a journalist, and a man who may or may not be his son.
+Actors: Bill Murray, Owen Wilson, Cate Blanchett, Anjelica Huston
+---------------------------------
+Artist: Kanye West
+Song Name: POWER
+Preview Link: null
+Album: My Beautiful Dark Twisted Fantasy
+---------------------------------

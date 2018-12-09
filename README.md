@@ -13,4 +13,4 @@ All of the above commands will log the information to log.txt so we can study ou
 
 See below for demo:
 
-![liri-demo](/images.liri-demo.gif)
+![liri-demo](/images/liri-demo.gif)
