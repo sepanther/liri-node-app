@@ -67,3 +67,88 @@ Language: English, Icelandic, Filipino, Portuguese, French, Tagalog, German, Ita
 Plot: With a plan to exact revenge on a mythical shark that killed his partner, Oceanographer Steve Zissou rallies a crew that includes his estranged wife, a journalist, and a man who may or may not be his son.
 Actors: Bill Murray, Owen Wilson, Cate Blanchett, Anjelica Huston
 ---------------------------------
+Artist: Demi Lovato
+Song Name: Sorry Not Sorry
+Preview Link: null
+Album: Tell Me You Love Me
+---------------------------------
+Artist: Pentatonix
+Song Name: Hallelujah
+Preview Link: https://p.scdn.co/mp3-preview/da81b5155d9929f3ecd62b214b0012def8a9cb73?cid=90909bf16c3d46c3b5a0bbe3671a3ce6
+Album: A Pentatonix Christmas Deluxe
+---------------------------------
+Artist: Justin Bieber
+Song Name: Sorry
+Preview Link: null
+Album: Purpose (Deluxe)
+---------------------------------
+Venue: Rockwood Music Hall Stage 3
+Location: New York, United States
+Date: 01/19/2019
+---------------------------------
+Venue: Cohoes Music Hall
+Location: Cohoes, United States
+Date: 01/24/2019
+---------------------------------
+Venue: Rockwood Music Hall Stage 3
+Location: New York, United States
+Date: 01/19/2019
+---------------------------------
+Venue: Cohoes Music Hall
+Location: Cohoes, United States
+Date: 01/24/2019
+---------------------------------
+Artist: 6ix9ine
+Song Name: TIC TOC (feat. Lil Baby)
+Preview Link: https://p.scdn.co/mp3-preview/0fa389c045ca041cffbc96546b97bc4d86001c37?cid=90909bf16c3d46c3b5a0bbe3671a3ce6
+Album: DUMMY BOY
+---------------------------------
+Venue: Rockwood Music Hall Stage 3
+Location: New York, United States
+Date: 01/19/2019
+---------------------------------
+Venue: Cohoes Music Hall
+Location: Cohoes, United States
+Date: 01/24/2019
+---------------------------------
+Artist: The Monotones
+Song Name: The Book Of Love
+Preview Link: https://p.scdn.co/mp3-preview/ad50d1835ef05730a118114c6551c0cb685f39c1?cid=90909bf16c3d46c3b5a0bbe3671a3ce6
+Album: Who Wrote The Book Of Love? [Digital Version]
+---------------------------------
+Artist: The Monotones
+Song Name: The Book Of Love
+Preview Link: https://p.scdn.co/mp3-preview/ad50d1835ef05730a118114c6551c0cb685f39c1?cid=90909bf16c3d46c3b5a0bbe3671a3ce6
+Album: Who Wrote The Book Of Love? [Digital Version]
+---------------------------------
+Venue: Rockwood Music Hall Stage 3
+Location: New York, United States
+Date: 01/19/2019
+---------------------------------
+Venue: Cohoes Music Hall
+Location: Cohoes, United States
+Date: 01/24/2019
+---------------------------------
+Artist: Justin Bieber
+Song Name: Sorry
+Preview Link: null
+Album: Purpose (Deluxe)
+---------------------------------
+Title: The Lord of the Rings: The Fellowship of the Ring
+Year: 2001
+IMDB Rating: 8.8/10
+Rotten Tomatoes Rating: 91%
+Country: New Zealand, USA
+Language: English, Sindarin
+Plot: A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
+Actors: Alan Howard, Noel Appleby, Sean Astin, Sala Baker
+---------------------------------
+Title: The Life Aquatic with Steve Zissou
+Year: 2004
+IMDB Rating: 7.3/10
+Rotten Tomatoes Rating: 73%
+Country: USA
+Language: English, Icelandic, Filipino, Portuguese, French, Tagalog, German, Italian
+Plot: With a plan to exact revenge on a mythical shark that killed his partner, Oceanographer Steve Zissou rallies a crew that includes his estranged wife, a journalist, and a man who may or may not be his son.
+Actors: Bill Murray, Owen Wilson, Cate Blanchett, Anjelica Huston
+---------------------------------
